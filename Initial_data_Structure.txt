@@ -1,0 +1,32 @@
+
+GenomeProject.
+├── Analysis
+│   ├── Annotation
+│   ├── Assemblies
+│   └── Preprocess
+│       ├── FastQC
+│       └── Trims
+├── Code_scripts
+│   ├── bash
+│   │   └── 1_Bash_trimming.sh
+│   ├── others
+│   │   └── Python_Maybe.py
+│   └── tests
+│       └── whatever.txt
+├── Data
+│   ├── Metadata
+│   ├── raw_data_DNA
+│   │   ├── raw_Illumina -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/genomics_data/Illumina
+│   │   ├── raw_nanopore -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/genomics_data/Nanopore
+│   │   └── raw_pac -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/genomics_data/PacBio
+│   ├── raw_data_RNA
+│   │   ├── raw_RNA_BHI -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_BH
+│   │   ├── raw_RNA_Serum -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/transcriptomics_data/RNA-Seq_Serum
+│   │   ├── raw_Tn-Seq_BHI -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/transcriptomics_data/Tn-Seq_BHI
+│   │   ├── raw_Tn-Seq_HSerum -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/transcriptomics_data/Tn-Seq_HSerum
+│   │   └── raw_Tn-Seq_Serum -> /proj/uppmax2024-2-7/Genome_Analysis/1_Zhang_2017/transcriptomics_data/Tn-Seq_Serum
+│   └── Trimmed_data
+├── Initial_data_Structure.txt
+└── README.md
+
+23 directories, 5 files
