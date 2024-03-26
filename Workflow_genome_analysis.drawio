@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T16:52:21.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.0" etag="0oMIrX4zRjsxXCdHBLoo" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T16:57:27.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="FHzOCHFQGmGMRzStE4NG" version="24.2.0" type="github">
   <diagram name="Page-1" id="9AbPAYx_Ur40lodAAJXG">
-    <mxGraphModel>
+    <mxGraphModel dx="605" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tNsHm9VPv4sUOiM06Ht-1" target="-tNsHm9VPv4sUOiM06Ht-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-1" value="Raw Dna Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tNsHm9VPv4sUOiM06Ht-3" target="-tNsHm9VPv4sUOiM06Ht-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-3" value="Quality Control" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tNsHm9VPv4sUOiM06Ht-5" target="-tNsHm9VPv4sUOiM06Ht-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-5" value="QC checked DNA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tNsHm9VPv4sUOiM06Ht-7" target="-tNsHm9VPv4sUOiM06Ht-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-7" value="Trimming" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="355" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-tNsHm9VPv4sUOiM06Ht-9" value="Genome Assembly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
