@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T21:35:34.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="fc6uPDfkVzcO84T7ocQZ" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T21:38:31.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="aXVqmpH9rxzdhRKamOD5" version="24.2.0" type="github">
   <diagram name="Page-1" id="9AbPAYx_Ur40lodAAJXG">
     <mxGraphModel dx="1461" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-1" value="Raw Dna Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="130" width="115" height="50" as="geometry" />
+          <mxGeometry x="180" y="130" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tNsHm9VPv4sUOiM06Ht-5" target="7OGemSNxya9onOI5F_At-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-5" value="QC checked DNA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" width="120" height="50" as="geometry" />
+          <mxGeometry x="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-tNsHm9VPv4sUOiM06Ht-9" target="-tNsHm9VPv4sUOiM06Ht-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-9" value="Genome Assembly" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="180" y="290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-tNsHm9VPv4sUOiM06Ht-14" target="-tNsHm9VPv4sUOiM06Ht-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-16" value="Refinement of the assembly" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-18" value="Masker?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="55" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-tNsHm9VPv4sUOiM06Ht-20" target="-tNsHm9VPv4sUOiM06Ht-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-22" value="Annotated Genome" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-tNsHm9VPv4sUOiM06Ht-26" value="Genome Assembly Done" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wO4JvARXHWoRqYVBSZIH-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-2" value="Raw RNA Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" width="120" height="50" as="geometry" />
+          <mxGeometry x="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="7OGemSNxya9onOI5F_At-4" target="7OGemSNxya9onOI5F_At-6" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,8 +76,13 @@
         <mxCell id="7OGemSNxya9onOI5F_At-4" value="Quality Control" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="65" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7OGemSNxya9onOI5F_At-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OGemSNxya9onOI5F_At-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-6" value="QC checked RNA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="500" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OGemSNxya9onOI5F_At-8" target="-tNsHm9VPv4sUOiM06Ht-9">
           <mxGeometry relative="1" as="geometry" />
@@ -89,10 +94,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-10" value="Transcriptome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="505" y="290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-15" value="Refinement of the Transcriptome assembly" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-16" value="Masker?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="80" height="80" as="geometry" />
@@ -101,13 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-20" value="Annotated Transcriptome" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="497.5" y="510" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OGemSNxya9onOI5F_At-22" target="7OGemSNxya9onOI5F_At-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-22" value="Functional Annotation?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="605" width="90" height="90" as="geometry" />
+          <mxGeometry x="675" y="605" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-23" value="Differential Expression" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
@@ -149,10 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OGemSNxya9onOI5F_At-40" value="Functional Annotation?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="605" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7OGemSNxya9onOI5F_At-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7OGemSNxya9onOI5F_At-6" target="7OGemSNxya9onOI5F_At-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="50" y="605" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
